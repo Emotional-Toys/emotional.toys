@@ -1,6 +1,6 @@
 ## emotional.toys
 
-The website of https://emotional.toys.
+The website of the _emotional toys_ initiative.
 
 ![current](/images/current.png)
 
